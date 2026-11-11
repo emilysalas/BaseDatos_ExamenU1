@@ -17,8 +17,7 @@
 * **Unidad:** 1
 * **Resultado de aprendizaje de la unidad:** Modela bases de datos de problemas reales, bajo los principios de solidaridad, transparencia, responsabilidad y honestidad.
 * **Nombre del Docente:** Edwin René Guamán Quinche
-* **Fecha:** 10/11/2026
-* **Enlace de Git:** `<TU_ENLACE_DE_GIT>`
+* **Fecha:** 11/11/2026
 * **Nombres y Apellidos del Estudiante:** Emily Jaasiel Salas Paz
 
 ---
