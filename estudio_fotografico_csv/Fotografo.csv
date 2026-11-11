@@ -1,0 +1,9 @@
+id_fotografo,nombre_fotografo,apellido,especialidad,telefono,estado
+1,Carlos,Mendoza,Bodas,0991001001,Activo
+2,Paola,Ríos,Retratos,0982002002,Activo
+3,Diego,Vivanco,Eventos corporativos,0973003003,Activo
+4,Gabriela,León,Moda,0994004004,Activo
+5,Fernando,Aguirre,Maternidad y familia,0985005005,Inactivo
+6,Marcela,Ochoa,Fotografía infantil,0996006006,Activo
+7,Esteban,Paladines,Productos,0977007007,De vacaciones
+8,Rosa,Cabrera,Eventos sociales,0988008008,Activo

@@ -1,0 +1,9 @@
+id_paquete,nombre_paquete,descripcion,precio_base,duracion_horas,tipo_entrega_base,incluye_impresiones,costo_impresion
+1,Retrato Básico,Sesión individual en estudio con 15 fotos editadas,60.00,1,Digital,false,0.00
+2,Retrato Premium,Sesión de retrato con vestuario y 30 fotos editadas,120.00,2,Mixto,true,25.00
+3,Boda Esencial,Cobertura de ceremonia y recepción por 6 horas,650.00,6,Digital,false,0.00
+4,Boda Completa,Cobertura de 10 horas con álbum físico,1200.00,10,Mixto,true,80.00
+5,Familia y Maternidad,Sesión en exteriores con 25 fotos editadas,150.00,2,Mixto,true,30.00
+6,Evento Corporativo,Cobertura de evento empresarial con entrega rápida,400.00,4,Digital,false,0.00
+7,Book de Moda,Sesión de moda para portafolio con 40 fotos,300.00,3,Mixto,true,40.00
+8,Fotografía de Producto,Sesión de catálogo para tienda con fondo blanco,200.00,3,Digital,false,0.00

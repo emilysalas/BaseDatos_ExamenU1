@@ -1,0 +1,9 @@
+id_entrega,formato_entrega,cantidad_fotos_digitales,cantidad_fotos_impresas,detalles_producto_fisico,estado_entrega,fecha_entrega_estimada,fecha_entrega_real,direccion_envio,id_sesion
+1,Mixto,15,5,Fotos 15x21 en caja de recuerdo,Entregado,2026-02-28,2026-02-27,"Av. Universitaria y Miguel Riofrío, Loja",1
+2,Mixto,450,40,Álbum de boda de 40 páginas en caja de lujo,Entregado,2026-04-20,2026-04-22,"Calle Bolívar y Colón, Loja",2
+3,Mixto,25,6,Fotos 20x30 enmarcadas,Entregado,2026-04-10,2026-04-10,Retiro en el estudio,3
+4,Digital,220,0,,Entregado,2026-04-22,2026-04-21,,4
+5,Mixto,40,8,Fotos 20x30 con portafolio impreso,Entregado,2026-05-23,2026-05-24,"Calle Lourdes y Azuay, Loja",5
+6,Digital,0,0,,Pendiente,2026-12-12,,,6
+7,Mixto,0,0,Álbum de 60 páginas y caja de recuerdo,Pendiente,2027-01-15,,"Av. Isidro Ayora, Catamayo",7
+8,Mixto,30,5,Fotos 15x21 en caja de recuerdo,En laboratorio,2026-11-20,,Retiro en el estudio,8

@@ -1,0 +1,9 @@
+id_pago,monto,fecha_pago,metodo_pago,concepto,id_sesion
+1,145.00,2026-02-14,Efectivo,Pago total,1
+2,600.00,2026-01-20,Transferencia,Anticipo,2
+3,680.00,2026-03-07,Transferencia,Saldo final,2
+4,180.00,2026-03-28,Efectivo,Pago total,3
+5,400.00,2026-04-10,Transferencia,Pago total,4
+6,170.00,2026-05-01,Tarjeta de crédito,Anticipo,5
+7,170.00,2026-05-09,Tarjeta de crédito,Saldo final,5
+8,70.00,2026-10-10,Efectivo,Anticipo,8
